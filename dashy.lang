@@ -1,0 +1,83 @@
+[en-us]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-cn]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-hk]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[fr-fr]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[de-de]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[it-it]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[es-es]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[hu-hu]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ja-jp]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ko-kr]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pl-pl]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ru-ru]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[tr-tr]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pt-pt]
+name = "Dashy"
+auth = "waskevin"
+descript = "A personal dashboard for organizing links and services."
+important = "License and source information are available in the application repository. Docker Engine is required."
